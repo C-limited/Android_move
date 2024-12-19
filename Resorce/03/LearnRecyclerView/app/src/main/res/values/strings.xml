@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LearnRecyclerView</string>
+    <string-array name="LearnListViewData">
+        <item>使用Android Studio环境</item>
+        <item>Android Studio实战</item>
+        <item>Android编程权威指南</item>
+    </string-array>
+</resources>

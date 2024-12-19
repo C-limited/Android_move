@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UserLogin</string>
+    <string-array name="UserNames">
+        <item>admin</item>
+        <item>Administrator</item>
+        <item>Android</item>
+    </string-array>
+    <string-array name="Passwords">
+        <item>123</item>
+        <item>123456</item>
+        <item>111111</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LearnUIComponent</string>
+    <string-array name="select_array">
+        <item>cable</item>
+        <item>china</item>
+        <item>Chinese</item>
+        <item>Check</item>
+    </string-array>
+</resources>
